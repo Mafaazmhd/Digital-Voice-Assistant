@@ -25,8 +25,7 @@ to run import:
 inorder to connect the flask backend to the flutter frontend copy the ipv4 number form running "ipconfig" in your terminal and paste it in line 188 of the main.dart code
 
 Contributions:
-Ayaad: ppt
 Joash: debugging
 Sevak: laptop provisions
 Dharvik: bugging
-mafaaz: frontend, backend, api, debugging, presentation, laptop provisions
+ayaad: frontend, backend, api, debugging, presentation, laptop provisions
